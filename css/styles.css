@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+  column-count: 3;
+}
+
+.doodle img {
+  width: 100%;
+}
+
+.doodle h2 {
+  text-align: center;
+}
+
+.bulldog h2 {
+  text-align: center;
+}
+.bulldog img {
+  width: 100%;
+}
+
+.shepherd h2 {
+  text-align: center;
+}
+
+.shepherd img {
+  width: 100%;
+  height: 255.84px;
+}
+/* img {
+  width: 75%;
+}
+
+h2 {
+  text-align: center;
+} */
